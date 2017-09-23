@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "【python】Anaconda的安装与使用"
-date: 2016-06-15 
+date: 2017-06-15 
 tag: 计算科学
 ---  
 
 ## Anaconda的安装与使用
 作者：Neo Luo  
-时间：2016-06-15
+时间：2017-06-15
 
 ----
 
